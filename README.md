@@ -35,6 +35,8 @@ Security practitioners who check email exposure across breach sources.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-query` | A first breach query and how to read it |
